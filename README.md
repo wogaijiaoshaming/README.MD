@@ -3,6 +3,7 @@
 项目简介：实现一个文本计数统计程序。能正确统计导入的纯英文txt文本中的字符数，单词数，句子数。
 首先在D盘中保存一个date.txt的纯英文文件。
 如：
+https://github.com/wogaijiaoshaming/README.MD/blob/master/photo.png
 C语言代码如下：
 #include<stdio.h>
 #include<stdlib.h>
@@ -63,3 +64,4 @@ int main()
     printf("句子个数：%d\n", juzi);
 }
 运行结果：
+https://github.com/wogaijiaoshaming/README.MD/blob/master/photo2.png
